@@ -11,9 +11,11 @@ YT-Bookmarker is a simple and intuitive chrome web extension that allows users t
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/026bb513-5e81-4593-9ca7-6aa2246b1cc7)
+
 *Screenshot of the main interface where users can add and manage their YouTube bookmarks.*
 
 ![image](https://github.com/user-attachments/assets/075a2e87-9fa2-4ac6-bb8d-c0a1fd177234)
+
 *Adding a new YouTube bookmark to the list.*
 
 ## Technology Stack
